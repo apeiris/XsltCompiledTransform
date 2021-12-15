@@ -1,0 +1,983 @@
+<PDFRequest>
+<Contract_AlternativeAuDpid />
+<Contract_AlternativeBilling_Name />
+<Contract_AlternativeBilling_Relationship />
+<Contract_AlternativeBillingCity />
+<Contract_AlternativeBillingCountry />
+<Contract_AlternativeBillingPostalCode />
+<Contract_AlternativeBillingState />
+<Contract_AlternativeBillingStreet />
+<Contract_Bill_Print_Name_2 />
+<Contract_BillingCountry />
+<Contract_DayOfMonth />
+<Contract_DPID_SortPlan />
+<Contract_Principal />
+<Contract_UseAlternativeAddress />
+<EmailTemplateName />
+<XsltName>AccountStatement.1.04.xslt</XsltName>
+<SourceType>Data+Transfer+XML</SourceType>
+<Service>
+<SupplyPoint>
+<SupplyPointDevice>
+<AverageDailyUse>
+<StartDate>2021-08-18+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2021-10-12+00%3A00%3A00</EndDate>
+<AverageDailyUsage>0.00</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2021-07-13+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2021-08-17+00%3A00%3A00</EndDate>
+<AverageDailyUsage>0.08</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2020-11-06+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2021-01-12+00%3A00%3A00</EndDate>
+<AverageDailyUsage>0.61</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2020-07-11+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2020-11-05+00%3A00%3A00</EndDate>
+<AverageDailyUsage>1.08</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<EndDate />
+<StartDate>2021-10-13+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<AverageDailyUsage>0.12</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2021-04-15+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2021-07-12+00%3A00%3A00</EndDate>
+<AverageDailyUsage>0.01</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2021-01-13+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2021-04-14+00%3A00%3A00</EndDate>
+<AverageDailyUsage>0.03</AverageDailyUsage>
+</AverageDailyUse>
+<AverageDailyUse>
+<StartDate>2020-04-15+00%3A00%3A00</StartDate>
+<Invalid>false</Invalid>
+<EndDate>2020-07-10+00%3A00%3A00</EndDate>
+<AverageDailyUsage>3.41</AverageDailyUsage>
+</AverageDailyUse>
+<Device>
+<SerialNumber>13B009304</SerialNumber>
+<Reading>
+<GrossConsumption>0.00</GrossConsumption>
+<Reading>7404</Reading>
+<ReadingDate>2021-08-17+00%3A00%3A00</ReadingDate>
+<ReadingMethod>Actual</ReadingMethod>
+<ReadingSource>Agent+Entered</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Reading>
+<GrossConsumption>7.00</GrossConsumption>
+<Reading>7404</Reading>
+<ReadingDate>2021-07-12+00%3A00%3A00</ReadingDate>
+<ReadingMethod>Actual</ReadingMethod>
+<ReadingSource>Cyclic+Reading</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Reading>
+<GrossConsumption>1.00</GrossConsumption>
+<Reading>7397</Reading>
+<ReadingDate>2021-04-14+00%3A00%3A00</ReadingDate>
+<ReadingMethod>Actual</ReadingMethod>
+<ReadingSource>Cyclic+Reading</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Reading>
+<GrossConsumption>2.00</GrossConsumption>
+<Reading>7396</Reading>
+<ReadingDate>2021-01-12+00%3A00%3A00</ReadingDate>
+<ReadingMethod>Actual</ReadingMethod>
+<ReadingSource>Cyclic+Reading</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Reading>
+<GrossConsumption>89.00</GrossConsumption>
+<Reading>7500</Reading>
+<ReadingDate>2021-10-13+00%3A00%3A00</ReadingDate>
+<ReadingMethod>System+Estimated</ReadingMethod>
+<ReadingSource>Agent+Entered</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Reading>
+<GrossConsumption>7.00</GrossConsumption>
+<Reading>7411</Reading>
+<ReadingDate>2021-10-12+00%3A00%3A00</ReadingDate>
+<ReadingMethod>Actual</ReadingMethod>
+<ReadingSource>Cyclic+Reading</ReadingSource>
+<ReadingType>Regular</ReadingType>
+</Reading>
+<Digits>5</Digits>
+<DeviceType>a1l5O000000Ej02QAC</DeviceType>
+</Device>
+<InstallationDate>2021-08-19+00%3A00%3A00</InstallationDate>
+</SupplyPointDevice>
+<ReadTimetable>
+<Name>Quarterly+July%2C+October%2C+January%2C+April</Name>
+</ReadTimetable>
+<ReadFrequency>Quarterly</ReadFrequency>
+<Location>
+<LocationAuDpid />
+<Country />
+<City>RUTHERGLEN</City>
+<LocationOccupant>
+<EndDate />
+<StartDate>2021-08-18+00%3A00%3A00</StartDate>
+<ShowOnBill>true</ShowOnBill>
+<OccupancyType>Tenant</OccupancyType>
+<Name>LO-00008773</Name>
+<AccountName>ELIZABETH+COSTELLO</AccountName>
+</LocationOccupant>
+<LocationOccupant>
+<EndDate />
+<StartDate>2020-01-14+00%3A00%3A00</StartDate>
+<ShowOnBill>true</ShowOnBill>
+<OccupancyType>Landlord</OccupancyType>
+<Name>LO-00005667</Name>
+<AccountName>ALICE+CLEGHORN</AccountName>
+</LocationOccupant>
+<LocationType>Household</LocationType>
+<PostalCode>3685</PostalCode>
+<State>VIC</State>
+<Street>79+GRAILS+ROAD</Street>
+<VoidLocation>false</VoidLocation>
+</Location>
+</SupplyPoint>
+</Service>
+<PdfTemplateName>AccountStatement.1.04.zip</PdfTemplateName>
+<PaymentPlan>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>64</InstalmentNumber>
+<InstalmentDueDate>2023-02-20+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>63</InstalmentNumber>
+<InstalmentDueDate>2023-02-13+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>62</InstalmentNumber>
+<InstalmentDueDate>2023-02-06+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>61</InstalmentNumber>
+<InstalmentDueDate>2023-01-30+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>60</InstalmentNumber>
+<InstalmentDueDate>2023-01-23+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>59</InstalmentNumber>
+<InstalmentDueDate>2023-01-16+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>58</InstalmentNumber>
+<InstalmentDueDate>2023-01-09+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>57</InstalmentNumber>
+<InstalmentDueDate>2023-01-02+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>56</InstalmentNumber>
+<InstalmentDueDate>2022-12-26+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>55</InstalmentNumber>
+<InstalmentDueDate>2022-12-19+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>54</InstalmentNumber>
+<InstalmentDueDate>2022-12-12+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>53</InstalmentNumber>
+<InstalmentDueDate>2022-12-05+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>52</InstalmentNumber>
+<InstalmentDueDate>2022-11-28+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>51</InstalmentNumber>
+<InstalmentDueDate>2022-11-21+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>50</InstalmentNumber>
+<InstalmentDueDate>2022-11-14+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>49</InstalmentNumber>
+<InstalmentDueDate>2022-11-07+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>48</InstalmentNumber>
+<InstalmentDueDate>2022-10-31+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>47</InstalmentNumber>
+<InstalmentDueDate>2022-10-24+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>46</InstalmentNumber>
+<InstalmentDueDate>2022-10-17+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>45</InstalmentNumber>
+<InstalmentDueDate>2022-10-10+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>44</InstalmentNumber>
+<InstalmentDueDate>2022-10-03+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>43</InstalmentNumber>
+<InstalmentDueDate>2022-09-26+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>42</InstalmentNumber>
+<InstalmentDueDate>2022-09-19+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>41</InstalmentNumber>
+<InstalmentDueDate>2022-09-12+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>40</InstalmentNumber>
+<InstalmentDueDate>2022-09-05+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>39</InstalmentNumber>
+<InstalmentDueDate>2022-08-29+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>38</InstalmentNumber>
+<InstalmentDueDate>2022-08-22+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>37</InstalmentNumber>
+<InstalmentDueDate>2022-08-15+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>36</InstalmentNumber>
+<InstalmentDueDate>2022-08-08+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>35</InstalmentNumber>
+<InstalmentDueDate>2022-08-01+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>34</InstalmentNumber>
+<InstalmentDueDate>2022-07-25+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>33</InstalmentNumber>
+<InstalmentDueDate>2022-07-18+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>32</InstalmentNumber>
+<InstalmentDueDate>2022-07-11+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>31</InstalmentNumber>
+<InstalmentDueDate>2022-07-04+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>30</InstalmentNumber>
+<InstalmentDueDate>2022-06-27+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>29</InstalmentNumber>
+<InstalmentDueDate>2022-06-20+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>28</InstalmentNumber>
+<InstalmentDueDate>2022-06-13+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>27</InstalmentNumber>
+<InstalmentDueDate>2022-06-06+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>26</InstalmentNumber>
+<InstalmentDueDate>2022-05-30+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>25</InstalmentNumber>
+<InstalmentDueDate>2022-05-23+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>24</InstalmentNumber>
+<InstalmentDueDate>2022-05-16+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>23</InstalmentNumber>
+<InstalmentDueDate>2022-05-09+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>22</InstalmentNumber>
+<InstalmentDueDate>2022-05-02+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>21</InstalmentNumber>
+<InstalmentDueDate>2022-04-25+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>20</InstalmentNumber>
+<InstalmentDueDate>2022-04-18+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>19</InstalmentNumber>
+<InstalmentDueDate>2022-04-11+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>18</InstalmentNumber>
+<InstalmentDueDate>2022-04-04+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>17</InstalmentNumber>
+<InstalmentDueDate>2022-03-28+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>16</InstalmentNumber>
+<InstalmentDueDate>2022-03-21+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>15</InstalmentNumber>
+<InstalmentDueDate>2022-03-14+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>14</InstalmentNumber>
+<InstalmentDueDate>2022-03-07+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>13</InstalmentNumber>
+<InstalmentDueDate>2022-02-28+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>12</InstalmentNumber>
+<InstalmentDueDate>2022-02-21+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>11</InstalmentNumber>
+<InstalmentDueDate>2022-02-14+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>10</InstalmentNumber>
+<InstalmentDueDate>2022-02-07+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>9</InstalmentNumber>
+<InstalmentDueDate>2022-01-31+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>8</InstalmentNumber>
+<InstalmentDueDate>2022-01-24+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>7</InstalmentNumber>
+<InstalmentDueDate>2022-01-17+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>6</InstalmentNumber>
+<InstalmentDueDate>2022-01-10+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>5</InstalmentNumber>
+<InstalmentDueDate>2022-01-03+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>4</InstalmentNumber>
+<InstalmentDueDate>2021-12-27+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>3</InstalmentNumber>
+<InstalmentDueDate>2021-12-20+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>2</InstalmentNumber>
+<InstalmentDueDate>2021-12-13+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>45.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>45.00</InstalmentAmountDue>
+</Instalment>
+<Instalment>
+<SumofAllocatedPayment />
+<InstalmentNumber>1</InstalmentNumber>
+<InstalmentDueDate>2021-12-06+00%3A00%3A00</InstalmentDueDate>
+<InstalmentAmountOutstanding>100.00</InstalmentAmountOutstanding>
+<InstalmentAmountDue>100.00</InstalmentAmountDue>
+</Instalment>
+<Name>PP-00006325</Name>
+<OutstandingAmount>2935.00</OutstandingAmount>
+<PaymentFrequency>Weekly</PaymentFrequency>
+<PaymentPlanTotal>1654.33</PaymentPlanTotal>
+<StartDate>2021-12-06+00%3A00%3A00</StartDate>
+<TotalInstalmentAmount>2395.00</TotalInstalmentAmount>
+</PaymentPlan>
+<Payment>
+<PaymentSource />
+<Amount>41.20</Amount>
+<PaymentDate>2021-01-08+00%3A00%3A00</PaymentDate>
+<PaymentMethod>BPAY</PaymentMethod>
+</Payment>
+<Payment>
+<PaymentSource />
+<Amount>202.08</Amount>
+<PaymentDate>2020-10-01+00%3A00%3A00</PaymentDate>
+<PaymentMethod>BPAY</PaymentMethod>
+</Payment>
+<Payment>
+<PaymentSource />
+<Amount>270.56</Amount>
+<PaymentDate>2020-09-10+00%3A00%3A00</PaymentDate>
+<PaymentMethod>BPAY</PaymentMethod>
+</Payment>
+<Payment>
+<PaymentSource />
+<Amount>777.89</Amount>
+<PaymentDate>2020-06-05+00%3A00%3A00</PaymentDate>
+<PaymentMethod>BPAY</PaymentMethod>
+</Payment>
+<Id>a2T5O000000yrTfUAI</Id>
+<FromEmail>do-not-reply%40newater.com.au</FromEmail>
+<EmailAttachmentType>PDF+as+Attachment</EmailAttachmentType>
+<DebtRecoveryProcess>
+<CurrentStage>Payment+Arrangement</CurrentStage>
+<CurrentStageDateTime>2021-12-08+05%3A01%3A09</CurrentStageDateTime>
+<PaymentDueDate>2021-12-06+00%3A00%3A00</PaymentDueDate>
+<TotalAmountDue>145.00</TotalAmountDue>
+</DebtRecoveryProcess>
+<Contract_Start_Date>2020-01-14</Contract_Start_Date>
+<Contract_PaymentMethodType>a2X5O00000043G3UAI</Contract_PaymentMethodType>
+<Contract_Payment_Reference>1000000037862</Contract_Payment_Reference>
+<Contract_Name>CON-00003786</Contract_Name>
+<Contract_Id>a1I5O000000Nl7IUAS</Contract_Id>
+<Contract_DebtRecoveryProfile>Payment+Arrangement</Contract_DebtRecoveryProfile>
+<Contract_DayOfWeek>Monday</Contract_DayOfWeek>
+<Contract_CustomerPaymentURL>https%3A%2F%2Fuat-newpayment.cs151.force.com%2Fpayment%3Ftoken%3DeHl6d3JmeGNmKipDT04tMDAwMDM3ODYqKiowLjAwKioqKkFMSUNFIEpBTkUgQ0xFR0hPUk4%3D</Contract_CustomerPaymentURL>
+<Contract_CurrentPaymentPlanType>a2a5O0000002PAiQAM</Contract_CurrentPaymentPlanType>
+<Contract_CurrentDebtRecoveryProcess>a1f5O000000S4F5QAK</Contract_CurrentDebtRecoveryProcess>
+<Contract_BPay_CRN>1000000037862</Contract_BPay_CRN>
+<Contract_BillingStreet>PO+BOX+231</Contract_BillingStreet>
+<Contract_BillingState>VICTORIA</Contract_BillingState>
+<Contract_BillingPostalCode>3685</Contract_BillingPostalCode>
+<Contract_BillingCity>RUTHERGLEN</Contract_BillingCity>
+<Contract_BillingAuDpid>00324340</Contract_BillingAuDpid>
+<Contract_Bill_Print_Name_1>A+J+CLEGHORN</Contract_Bill_Print_Name_1>
+<Contract_AusPost_Reference>3310100000003786000152677</Contract_AusPost_Reference>
+<Contract_AusPost_CRN>1000000037860</Contract_AusPost_CRN>
+<Contact_Id>0035O0000078AerQAE</Contact_Id>
+<Contact_FirstName>ALICE</Contact_FirstName>
+<BillingEmailOptOutLink>https%3A%2F%2Fuat-newpayment.cs151.force.com%2F%3FaccId%3D0015O000008M7IbQAK</BillingEmailOptOutLink>
+<Bill>
+<BillDate>2021-12-06+00%3A00%3A00</BillDate>
+<BilledAmount>0.02</BilledAmount>
+<BillItem>
+<StartDate>2021-10-13+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>0.02</NetBilledAmount>
+<Name>BI-0000189787</Name>
+<EndDate>2021-10-13+00%3A00%3A00</EndDate>
+<BilledAmount>0.02</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000061926</BillNumber>
+<EndDate>2021-10-13+00%3A00%3A00</EndDate>
+<StartDate>2021-10-13+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2021-10-11+00%3A00%3A00</BillDate>
+<BilledAmount>33.90</BilledAmount>
+<BillItem>
+<StartDate>2021-08-18+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>33.90</NetBilledAmount>
+<Name>BI-0000166976</Name>
+<EndDate>2021-10-11+00%3A00%3A00</EndDate>
+<BilledAmount>33.90</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000048715</BillNumber>
+<EndDate>2021-10-11+00%3A00%3A00</EndDate>
+<StartDate>2021-08-18+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2021-08-24+00%3A00%3A00</BillDate>
+<BilledAmount>22.19</BilledAmount>
+<BillItem>
+<StartDate>2021-07-13+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>0.00</NetBilledAmount>
+<Name>BI-0000163538</Name>
+<EndDate>2021-08-17+00%3A00%3A00</EndDate>
+<BilledAmount>0.00</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2021-07-13+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>22.19</NetBilledAmount>
+<Name>BI-0000163539</Name>
+<EndDate>2021-08-17+00%3A00%3A00</EndDate>
+<BilledAmount>22.19</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000047304</BillNumber>
+<EndDate>2021-08-17+00%3A00%3A00</EndDate>
+<StartDate>2021-07-13+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2021-07-13+00%3A00%3A00</BillDate>
+<BilledAmount>71.98</BilledAmount>
+<BillItem>
+<StartDate>2021-07-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>7.40</NetBilledAmount>
+<Name>BI-0000145185</Name>
+<EndDate>2021-07-12+00%3A00%3A00</EndDate>
+<BilledAmount>7.40</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2021-04-15+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>48.06</NetBilledAmount>
+<Name>BI-0000145184</Name>
+<EndDate>2021-06-30+00%3A00%3A00</EndDate>
+<BilledAmount>48.06</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2021-07-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>2.39</NetBilledAmount>
+<Name>BI-0000145183</Name>
+<EndDate>2021-07-12+00%3A00%3A00</EndDate>
+<BilledAmount>2.39</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2021-04-15+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>14.13</NetBilledAmount>
+<Name>BI-0000145182</Name>
+<EndDate>2021-06-30+00%3A00%3A00</EndDate>
+<BilledAmount>14.13</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000043766</BillNumber>
+<EndDate>2021-07-12+00%3A00%3A00</EndDate>
+<StartDate>2021-04-15+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2021-04-15+00%3A00%3A00</BillDate>
+<BilledAmount>59.79</BilledAmount>
+<BillItem>
+<StartDate>2021-01-13+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>57.43</NetBilledAmount>
+<Name>BI-0000124953</Name>
+<EndDate>2021-04-14+00%3A00%3A00</EndDate>
+<BilledAmount>57.43</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2021-01-13+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>2.36</NetBilledAmount>
+<Name>BI-0000124952</Name>
+<EndDate>2021-04-14+00%3A00%3A00</EndDate>
+<BilledAmount>2.36</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000038129</BillNumber>
+<EndDate>2021-04-14+00%3A00%3A00</EndDate>
+<StartDate>2021-01-13+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2021-01-13+00%3A00%3A00</BillDate>
+<BilledAmount>47.16</BilledAmount>
+<BillItem>
+<StartDate>2020-11-06+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>42.45</NetBilledAmount>
+<Name>BI-0000110159</Name>
+<EndDate>2021-01-12+00%3A00%3A00</EndDate>
+<BilledAmount>42.45</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-11-06+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>4.71</NetBilledAmount>
+<Name>BI-0000110158</Name>
+<EndDate>2021-01-12+00%3A00%3A00</EndDate>
+<BilledAmount>4.71</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000032413</BillNumber>
+<EndDate>2021-01-12+00%3A00%3A00</EndDate>
+<StartDate>2020-11-06+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2020-11-08+00%3A00%3A00</BillDate>
+<BilledAmount>41.20</BilledAmount>
+<BillItem>
+<StartDate>2020-09-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>41.20</NetBilledAmount>
+<Name>BI-0000102468</Name>
+<EndDate>2020-11-05+00%3A00%3A00</EndDate>
+<BilledAmount>41.20</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-09-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>0.00</NetBilledAmount>
+<Name>BI-0000102467</Name>
+<EndDate>2020-11-05+00%3A00%3A00</EndDate>
+<BilledAmount>0.00</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000029310</BillNumber>
+<EndDate>2020-11-05+00%3A00%3A00</EndDate>
+<StartDate>2020-09-01+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2020-09-03+00%3A00%3A00</BillDate>
+<BilledAmount>202.08</BilledAmount>
+<BillItem>
+<StartDate>2020-07-11+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>32.46</NetBilledAmount>
+<Name>BI-0000090984</Name>
+<EndDate>2020-08-31+00%3A00%3A00</EndDate>
+<BilledAmount>32.46</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-07-11+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>169.62</NetBilledAmount>
+<Name>BI-0000090983</Name>
+<EndDate>2020-08-31+00%3A00%3A00</EndDate>
+<BilledAmount>169.62</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000025005</BillNumber>
+<EndDate>2020-08-31+00%3A00%3A00</EndDate>
+<StartDate>2020-07-11+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2020-07-13+00%3A00%3A00</BillDate>
+<BilledAmount>270.56</BilledAmount>
+<BillItem>
+<StartDate>2020-07-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>6.24</NetBilledAmount>
+<Name>BI-0000074068</Name>
+<EndDate>2020-07-10+00%3A00%3A00</EndDate>
+<BilledAmount>6.24</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-04-15+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>47.92</NetBilledAmount>
+<Name>BI-0000074067</Name>
+<EndDate>2020-06-30+00%3A00%3A00</EndDate>
+<BilledAmount>47.92</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-07-01+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>25.91</NetBilledAmount>
+<Name>BI-0000074066</Name>
+<EndDate>2020-07-10+00%3A00%3A00</EndDate>
+<BilledAmount>25.91</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-04-15+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>190.49</NetBilledAmount>
+<Name>BI-0000074065</Name>
+<EndDate>2020-06-30+00%3A00%3A00</EndDate>
+<BilledAmount>190.49</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000021738</BillNumber>
+<EndDate>2020-07-10+00%3A00%3A00</EndDate>
+<StartDate>2020-04-15+00%3A00%3A00</StartDate>
+</Bill>
+<Bill>
+<BillDate>2020-04-15+00%3A00%3A00</BillDate>
+<BilledAmount>777.89</BilledAmount>
+<BillItem>
+<StartDate>2020-01-14+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Service+Charge</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+Service+Charge+20mm</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>57.26</NetBilledAmount>
+<Name>BI-0000055756</Name>
+<EndDate>2020-04-14+00%3A00%3A00</EndDate>
+<BilledAmount>57.26</BilledAmount>
+</BillItem>
+<BillItem>
+<StartDate>2020-01-14+00%3A00%3A00</StartDate>
+<ServiceItem_ServiceItemType_PDFChargeType>Miscellaneous</ServiceItem_ServiceItemType_PDFChargeType>
+<ServiceItem_ServiceItemType_BillDescription>Water+by+Measure</ServiceItem_ServiceItemType_BillDescription>
+<NetBilledAmount>720.63</NetBilledAmount>
+<Name>BI-0000055755</Name>
+<EndDate>2020-04-14+00%3A00%3A00</EndDate>
+<BilledAmount>720.63</BilledAmount>
+</BillItem>
+<BillNumber>INV-0000016639</BillNumber>
+<EndDate>2020-04-14+00%3A00%3A00</EndDate>
+<StartDate>2020-01-14+00%3A00%3A00</StartDate>
+</Bill>
+<Balance>
+<Balance>1526.77</Balance>
+<BalanceSnapshot>1526.77</BalanceSnapshot>
+<BalanceTransaction>
+<BillLoadReference />
+<PaymentAmount />
+<PendingBillAmount />
+<RefundAmount />
+<ReturnTransferAmount />
+<TransactionDate>2021-12-06+00%3A00%3A00</TransactionDate>
+<RecordTypeName>Bill</RecordTypeName>
+<RecordType>0122P0000004PcBQAU</RecordType>
+<PaymentNumber>
+</PaymentNumber>
+<PaymentLoadReference>
+</PaymentLoadReference>
+<CreatedDate>2021-12-06+15%3A22%3A21</CreatedDate>
+<BillNumber>INV-0000061926</BillNumber>
+<BillAmount>0.02</BillAmount>
+</BalanceTransaction>
+<BalanceTransaction>
+<PaymentAmount />
+<PendingBillAmount />
+<RefundAmount />
+<ReturnTransferAmount />
+<TransactionDate>2021-10-11+00%3A00%3A00</TransactionDate>
+<RecordTypeName>Bill</RecordTypeName>
+<RecordType>0122P0000004PcBQAU</RecordType>
+<PaymentNumber>
+</PaymentNumber>
+<PaymentLoadReference>
+</PaymentLoadReference>
+<CreatedDate>2021-11-15+12%3A06%3A24</CreatedDate>
+<BillNumber>INV-0000048715</BillNumber>
+<BillLoadReference>CHARGE%3A4003128606</BillLoadReference>
+<BillAmount>1526.75</BillAmount>
+</BalanceTransaction>
+</Balance>
+<Account_Statement_StartDate>2020-12-15</Account_Statement_StartDate>
+<Account_Statement_EndDate>2021-12-14</Account_Statement_EndDate>
+<Account_Name>ALICE+CLEGHORN</Account_Name>
+<Account_Id>0015O000008M7IbQAK</Account_Id>
+<Account_Email>kimlach%40newater.com.au</Account_Email>
+<Account_BillingEmailOptIn>false</Account_BillingEmailOptIn>
+<Account_AuDpid>00324340</Account_AuDpid>
+<Account_AccountReference>368883</Account_AccountReference>
+</PDFRequest>
