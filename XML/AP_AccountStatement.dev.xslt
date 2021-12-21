@@ -1,6 +1,4 @@
-<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
-               xmlns:xs="http://www.w3.org/2001/XMLSchema" 
-               xmlns:new="https://www.newater.com.au/" version="2.0">
+<xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:new="https://www.newater.com.au/" version="2.0">
   <xsl:output method="xml" indent="yes" encoding="UTF-8" />
   <xsl:variable name="totalFormat" select="'$###,##0.00'" />
   <xsl:variable name="fourDecimalsTotalFormat" select="'$###,##0.0000'" />
@@ -20,7 +18,7 @@
   <xsl:variable name="dateYesterdayFormatted" select="format-date(current-date() - xs:dayTimeDuration('P1D'), $dateFormat)" />
   <xsl:variable name="dateYesterdayFormattedShort" select="format-date(current-date() - xs:dayTimeDuration('P1D'), $dateFormatShort)" />
   <xsl:function name="new:log">
-    <!-- a convenience method to help debugging -->
+    <!-- a convenience method to help debuggi   ng -->
     <xsl:param name="message" />
     <xsl:message>
       <xsl:value-of select="$message" />
@@ -77,8 +75,8 @@
     <pdfData>
       <xsl:variable name="CustomerName">
         <!-- Get the Customers Name -->
-        <xsl:variable name="billPrintName1" select="new:truncate(./Contract_Bill_Print1_Reference, 48)" />
-        <xsl:variable name="billPrintName2" select="new:truncate(./Contract_Bill_Print2_Reference, 48)" />
+        <xsl:variable name="billPrintName1" select="new:truncate(./Contract_Bill_Print_Name_1, 40)" />
+        <xsl:variable name="billPrintName2" select="new:truncate(./Contract_Bill_Print_Name_2, 40)" />
         <xsl:choose>
           <xsl:when test="($billPrintName1 != '') and ($billPrintName2 != '')">
             <xsl:value-of select="concat($billPrintName1,'&lt;br/&gt;',$billPrintName2)" />
@@ -88,7 +86,7 @@
           </xsl:when>
           <!-- catch if no bill print name is available -->
           <xsl:otherwise>
-            <xsl:value-of select="new:truncate(./Account_Name, 48)" />
+            <xsl:value-of select="new:truncate(./Account_Name, 40)" />
           </xsl:otherwise>
         </xsl:choose>
       </xsl:variable>
@@ -398,7 +396,8 @@
         <!-- <xsl:value-of select="new:log($bills)" /> -->
         <objectRecordList>
           <xsl:for-each select="$balanceTransactionsWithNumbers/BalanceTransaction">
-            <xsl:sort select="TransactionDate" data-type="text" order="ascending" />
+            <!-- Changing to descending **AP**-->
+            <xsl:sort select="TransactionDate" data-type="text" order="descending" />
             <xsl:choose>
               <xsl:when test="RecordTypeName='Bill'">
                 <xsl:variable name="transactionDate" select="TransactionDate" />
@@ -419,10 +418,13 @@
                       <field>
                         <apiName>TransactionType</apiName>
                         <value>
-                          <xsl:value-of select="./ServiceItem_ServiceItemType_BillDescription" />
+                    <!--      <xsl:value-of select="./ServiceItem_ServiceItemType_BillDescription" /> -->
+                          <xsl:value-of select="../BillNumber" />
                         </value>
-                      </field>
-                      <field>
+                            </field>
+						<this is="" to="" test="" git="">
+							
+						</this>                      <field>
                         <apiName>Debit</apiName>
                         <value>
                           <xsl:value-of select="format-number(./NetBilledAmount, $totalFormat)" />

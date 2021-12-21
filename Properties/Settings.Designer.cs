@@ -58,5 +58,28 @@ namespace XsltCompiledTransform.Properties {
                 this["filePath"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        public global::System.Data.DataTable parameters {
+            get {
+                return ((global::System.Data.DataTable)(this["parameters"]));
+            }
+            set {
+                this["parameters"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        public string post_to_url {
+            get {
+                return ((string)(this["post_to_url"]));
+            }
+            set {
+                this["post_to_url"] = value;
+            }
+        }
     }
 }

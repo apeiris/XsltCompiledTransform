@@ -1302,6 +1302,7 @@
     <xsl:param name="sundryBillItems" />
     <xsl:param name="pageNumber" />
     <xsl:variable name="totalChargeSundry" select="sum($sundryBillItems/BilledAmount[number(.) = number(.)])" />
+   
     <xsl:variable name="totalDiscountSundry" select="sum($sundryBillItems/BillItemDiscount/BillItemDiscountAmount[number(.) = number(.)])" />
     <objectRecordList>
       <objectApiName>
@@ -1316,8 +1317,11 @@
           </value>
         </field>
         <!-- Create the total discount -->
+        <!-- this variable is assigned previously, commenting out  ** Watch this **ap 15th Dec 21-->
+     <!--
         <xsl:variable name="totalDiscountSundry" select="sum($sundryBillItems/TotalDiscountAmount[number(.) = number(.)])" />
-        <field>
+     --> 
+      <field>
           <apiName>TotalDiscountAmountSundry</apiName>
           <value>
             <xsl:value-of select="format-number($totalDiscountSundry,$totalFormat)" />

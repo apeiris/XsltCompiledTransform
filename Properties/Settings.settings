@@ -11,5 +11,11 @@
     <Setting Name="filePath" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
+    <Setting Name="parameters" Type="System.Data.DataTable" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="post_to_url" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
   </Settings>
 </SettingsFile>
